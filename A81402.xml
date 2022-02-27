@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several letters written to the saints of the Most High, to build them up in the truth, as it is in Jesus. By William Deusbury. James Nayler. George Fox. John Whitehead</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81402</idno>
+            <idno type="STC">Wing D1272</idno>
+            <idno type="STC">ESTC R202145</idno>
+            <idno type="EEBO-CITATION">99897123</idno>
+            <idno type="PROQUEST">99897123</idno>
+            <idno type="VID">170838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170838)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2480:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several letters written to the saints of the Most High, to build them up in the truth, as it is in Jesus. By William Deusbury. James Nayler. George Fox. John Whitehead</title>
+                  <author>Dewsbury, William, 1621-1688.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The authors' names are bracketed together on title page.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170838:1"/>
+            <pb facs="tcp:170838:1" rendition="simple:additions"/>
+            <p>SEVERAL LETTERS Written to the Saints of the Moſt High, To build them up in the Truth, as it is in JESUS.</p>
+            <p>By <hi>William Deusbury. James Nayler. George Fox. John Whitehead.</hi>
+            </p>
+            <q>
+               <bibl>LUKE, 10. 2.</bibl> 
+               <hi>The Harvest is great, but the Labourers are few; pray ye therefore the Lord of the Harvest that he would ſend forth Labourers,</hi> &amp;c.</q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:170838:2"/>
+            <pb n="3" facs="tcp:170838:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Suffer with the impriſoned ſeed in you, to which I was ſent to preach unto the everlaſting Goſpel, to the opening of your blind eyes, that you might ſee your loſt eſtates; how your immortal Souls lie in the pit wherein there is no water, and to bring it forth that it might ſtand in the liberty of my Fathers love in the free Covenant of Life in the Lord Jeſus, which Covenant is to the ſeed which is pure and holy, and inlightens your underſtandings, and lets you ſee every by-path and broad way, and cries behind you, <hi>This is the way, walk in it,</hi> when you turn from the pure light which is in your Conſciences; and to the light in your conſciences I ſpeak, which ſhal eternally wit<g ref="char:EOLhyphen"/>neſſe me; you have not been faithfull many of you, in walking with the Lord, ſince you heard the Goſ<g ref="char:EOLhyphen"/>pel of your Salvation; I charge you in the preſence of the Lord God Almighty, and by his Power, e<g ref="char:EOLhyphen"/>very one of you examine your Conſciences, which wil witneſſe with me, for I am with you, though ab<g ref="char:EOLhyphen"/>ſent in body, and ſee you with the inviſible and eter<g ref="char:EOLhyphen"/>nal eye, which nothing can be hid from in the mea<g ref="char:EOLhyphen"/>ſure which the Lord hath opened: I ſuffer amongſt you for the immortal and eternal Seed that ſuffers in you; I charge you ſlight not the examination of your hearts every one of you in particular; I ſee you who you are in whom the Seed ſuffers, in ſome under one deceit, and ſome in another; and to the all ſeeing Eye, that light in your Conſciences I direct you, which is the Eye with which I ſee you; and every one of you
+<pb n="4" facs="tcp:170838:3"/>
+dwel in the pure light which is in your Conſciences, and you will ſee your ſelves, and witneſſe theſe lines, and from the mouth of the living God, before whom all is naked and bare; I charge you by the Lord, ha<g ref="char:EOLhyphen"/>ſten every one of you to meet the Lord in ſpeedy re<g ref="char:EOLhyphen"/>forming your ways: Thou that art ſlothful, harken to the light in thy Conſcience, and it wil waken thee; &amp; thou that art flown up into the ayr to ſpeak of that thou liveſt not in, harken to the light in thy Conſci<g ref="char:EOLhyphen"/>ence, and it wil ſtop thy mouth, and cauſe thee to lie low before the Lord; and thou that art exalted above thy brother, harken to the light in thy conſcience, and it wil pluck thee down, and cauſe thee to ſerve him in love; and thou that art delighting in the earth more then in the Lord thy God, harken to the light in thy conſcience, and it will bring thy earthly mind to Judgement, and rend thee from the Earth; and thou that art a Self-lover, and if thou have thy ſelf, and re<g ref="char:EOLhyphen"/>gard not thy Brother, harken to the light in thy con<g ref="char:EOLhyphen"/>ſcience, and it wil bring thee to Self-denial, and to love thy brother, &amp; to watch over him, &amp; ſuffer with him in all his ſufferings: I charge you in the preſence of the eternal and ever-living God, that every one be faithful according to the meaſure or light of the Lord hath given to profit withal in the exerciſes of your conſcience towards God and men; Let the light guide you all in your ways, and it wil purge away all the filth of the fleſh; ſo wil the old man be put off with his deeds, and the impriſoned ſeed wil be ſet at liberty in you; and I ſhal not come to you any more with a rod, as I am conſtrained at this time, through your fooliſhneſſe, who have departed from the pure Wiſdom to look abroad in the counſel of your own hearts; for the rod is prepared for the back of a fool,
+<pb n="5" facs="tcp:170838:3" rendition="simple:additions"/>
+but the wiſe mans eye is in his head, which eye is the light in your conſciences, being guided by it, it will lead you to Chriſt, who is your Head, the Fountain of Wiſdom and knowledg: Now al of you that walk in him, I have union with every one of you, denying your ſelves freely, and be faithful in your meaſures, that you may grow up together in the Lord Jeſus: a peculiar people, a holy Prieſthood, to offer up your ſouls and bodies a living ſacrifice unto the Lord our God, to guide you by his power to his own praiſe and glory, who alone is worthy to be feared and obeyed of all his Saints for ever and ever: With bowels of love I ſalute you all in the Lord, into his Power I commit you, and the Lord God Aimighty enlighten your underſtandings, and bleſſe you and guide you in wiſdom to watch over one another in love, that the God of love may be exalted in all of you.</p>
+            <closer>
+               <dateline>
+                  <date>December, 1653.</date>
+               </dateline>
+               <signed>This was the Copy of a Letter that came from
+William Deusbury.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>
+               <hi>DEar Friends,</hi> I rejoice in you as you are entred into the love of the truth, and have owned the Voice that cals out of the darkneſſe that is over all the Earth, to ſet your faces towards <hi>Sion</hi> the City of everlaſting Light: and now mind your way, and the light that is given to guide you in the way, to keep your eye to the light, that it may lead you through al the viſible things of the world, and as you paſſe through you may ſtand ſingle in the mind unto God, not turning to the right or left hand, where lies the temptation, nor looking back, which lays you open to be aſſaulted afreſh by thoſe evils you had once eſcaped
+<pb n="6" facs="tcp:170838:4"/>
+from; but keeping the eye towards the mark, paſſe on, leaving and forgetting what is behind, and treading and trampling under your feet what the ene<g ref="char:EOLhyphen"/>my ſhall lay as ſtumbling blocks in your way, which your carnal eyes or ears or hearts would be cloſing with, for the temptation lies in the carnal things, and there is the bondage of the creature to things that are corrupt, from which bondage, from ſin &amp; corruption the Lord is now appeared, that in the light he may redeem and lead out of it all that will own and follow him; and this Light and Redemption is in his Son, whom he is about to exalt, in which exaltation a ſtrange and mighty Work is to be brought to paſſe, whereat al that ſtand not in his counſel &amp; fear, and to whom he ſhal not reveal his ſecrets, ſhall be offended, for all that is exalted ſhall be laid low and debaſed, the wiſdom of the wiſe ſhal come to nought, and the underſtanding of the prudent ones ſhall be hid, riches and honors ſhal fal to duſt, from whence they came, and the worſhip of the world ſhal become filthineſſe, the gods of the Heathens ſhal be famiſhed with look<g ref="char:EOLhyphen"/>ing for worſhip, but ſhal get none, and the ſtrongeſt of them ſhal not be able to deliver himſelf; for the Lord wil bring down all Heights and Mountains into the valleys, for in the valley of <hi>Jehoſaphat</hi> will plead with all fleſh, which hath ſcattered the ſeed of the Covenant: And now dear Friends, here is your peace and bleſſedneſſe, that you ſilence all fleſh, and ceaſe from your own wiſdoms, &amp; give over your imagina<g ref="char:EOLhyphen"/>tions about the things of God; come out of the love of the world, and ariſe out of all viſible things, and prepare to meet the Lord; caſt off all your idols that have had your hearts, &amp; put the ſtumbling blocks off of your iniquities from before your faces, and give
+<pb n="7" facs="tcp:170838:4" rendition="simple:additions"/>
+up all that will not that he ſhould raign over them, that his enemies may be your enemies, for in judgment and righteouſneſs is he come out to be avenged upon the unrighteous ſeed, and now ſtand in the light, that a ſeparation may be made in you, the precious from the vile, that a true ſavour may ariſe, that you may know your calling and election, what is called, and what you are to come out of, left you ſtay in any of that to which the plagues is, for this is the cauſe of your ſuffering, not diſcerning in the pure wiſdom what that Antichriſt or exalted ſpirit is, that is got into the Seat of God, and ſhewes himſelf to be as God, whoſe Kingdome ſtands in the wiſdome, glory and riches of the world, where at all that knows not the true God in Spirit ask couuſel; therefore, dear friends, look not out into the viſible things, for there he is ready to preſent to you falſe voices, and viſions, lying-wonders, to lead out the vain mind into the li<g ref="char:EOLhyphen"/>berty and boaſting of high things, in words without power; but while ſuch ſpeak of liberty, they are in bondage, in mind to corrupt and fading things, and while theſe are head in the creature, there is not re<g ref="char:EOLhyphen"/>demption, but the bonds of iniquity are unlooſed, and the pure ſeed is oppreſſed, and the plagues muſt paſs upon that nature, therefore ſink down into the ſuffer<g ref="char:EOLhyphen"/>ings and death, that you may find the door where at to enter, for their is a vale of tears to paſs thorough, you ſhall find your well-ſprings in him, where you ſhall drink of the water of Life, and find refreſhment, and grow from ſtrength to ſtrength, till you come up to <hi>Sion:</hi> Stand, take heed of word, without ſpoken from the comprehenſions, for that feeds not the pure ſeed, but feeds the wiſdome which is above, and the itching ears, and ſo the pure is covered with earth,
+<pb n="8" facs="tcp:170838:5"/>
+and the fowls of the ayr is fed, and no fruit is brought forth to perfection, and take heed of that nature that would know more then God is willing to reveal; for you ſhal find that unwilling to obey what it knows, and take heed of that which deſires to appear before men to be commended, for that ſeldom deſerves praiſe of God; and let a godly converſation declare what is within, and know one another in ſpirit, and not in word, and meet often together, and wait upon God for his teaching alone in a croſs to your own wils, for therein is the ſecrets of God revealed: Let love abound in you one towards another, without be<g ref="char:EOLhyphen"/>ing partial; and I beſeech by the love of God, that you halt not between God and the world, but as you profeſs that you are not of the world, ſo let your con<g ref="char:EOLhyphen"/>verſation be out of its faſhions, cuſtomes and traditi<g ref="char:EOLhyphen"/>ons, and covetous practiſes, that it may appear you are marked out for the Lords, and that you are not a<g ref="char:EOLhyphen"/>ſhamed to own that which differs, and ſo walk, as not to caſt an offence on the Goſpel, that you become not a ſcorn to fools, but let wiſdome be juſtified of her children, and take heed to that which would be ex<g ref="char:EOLhyphen"/>alted above others, teaching and talking of things without life; and you that would be counted ſome<g ref="char:EOLhyphen"/>body, let ſuch firſt learn to waſh the feet of them they would be above, and he that would be greateſt, let him be ſervant to all, for it is the humble, and not the high ſpirits that are taught of God, and ſuch ſo walk, as their lives and practiſes teach and judge, all vain, light, and heighty ſpirits, and mind how you grow out of the earth, and you own that which is the enmi<g ref="char:EOLhyphen"/>ty, and until you be brought out of the love of all viſible things, and wholly infolded into the love of God, you cannot witneſs redemption, nor receive the
+<pb n="9" facs="tcp:170838:5" rendition="simple:additions"/>
+true joy that ariſeth in the manifeſtation of the Love, for it is only he that is brought up out of the death to raign over it, whoſe heart is come out of the unrighte<g ref="char:EOLhyphen"/>ous Mammon, who is entred into the Kingdome of righteouſneſs, joy and peace; and as you ariſe out of the earthly bondage, you ſhall witneſs the glorious li<g ref="char:EOLhyphen"/>berty, and ſo come to know your own meaſures, every one in particular to improve it, and not to boaſt a<g ref="char:EOLhyphen"/>bove it another mans line; and ſo you will come to ſee by what power you ſtand in your warfare, how far you are Conquerors, and who is your enemy at pre<g ref="char:EOLhyphen"/>ſent, and ſo be able to give an account in your ſelves of your faith, and how you grow from faith to faith; and, dear friends, watch over one another, exhort, reprove, admoniſh in pure love and meekneſs of ſpi<g ref="char:EOLhyphen"/>rit, leaſt you alſo be tempted, and all know that you are ſet as a City on a hill, as ſigns to this Generation; therefore lift up your light to all the world, that all mouths may be ſtopped, and hearts convinced; ſo that all that ſee you, may ſee you to be children of light, and being judged by you, may be aſhamed of their deeds of darkneſs, for great is the work of the Lord, and bleſſed are they that are found faithful in it, in what is committed to them. Farewel, deare hearts, and the Lord God Almighty bleſs, proſper, and preſerve you pure and clear unto his Kingdom, <hi>Amen.</hi> My love in the Lord ſalutes you all, and if my Father pleaſe, I ſhall be glad to ſee your faces in the fleſh; but his will is my peace, who is bleſſed for e<g ref="char:EOLhyphen"/>vermore.</p>
+            <closer>
+               <salute>To all dear Brethren and Friends in <hi>Holdernes,</hi> and in the Eaſt parts of <hi>Yorkſhier,</hi> and a lover of your ſouls.</salute>
+               <dateline>
+                  <hi>Written from</hi> Nuby <hi>in</hi> 
+                  <date> the ſeventh month, the laſt day.</date>
+               </dateline>
+               <signed>JAMES NAYLER.</signed>
+               <pb n="10" facs="tcp:170838:6"/>
+The Work of the Lord is great in thoſe parts, and he carries it on with a high hand, hath got himſelf the Victory.
+Praiſe the Lord with us all that know him, who is wor<g ref="char:EOLhyphen"/>thy, even him alone for ever.</closer>
+         </div>
+         <div type="letter">
+            <p>
+               <hi>DEar Brethren and Siſters,</hi> you who are begotten again of the Word of Truth, my bowels of love in the Lord Jeſus runneth forth to you all; and be<g ref="char:EOLhyphen"/>ware every one of you of luſting after the fleſh pots of <hi>Egypt,</hi> Earth end earthly things, or after the Mer<g ref="char:EOLhyphen"/>chandiſe of <hi>Babylon,</hi> the intiſing words of mans wiſ<g ref="char:EOLhyphen"/>dom, from whence the Lord in his eternal Love hath called you by revealing his Son in you, who is the living Bread which came down from Heaven: Dear Brethren, forſake not this living Mercy for outward things, thought never ſo ſeemingly glorious, for they all ſhall periſh in the uſing, but <hi>the word of the Lord endureth for ever;</hi> when it goeth forth it giveth under<g ref="char:EOLhyphen"/>ſtanding to the ſimple, and the ſoul of the needy is refreſhed by it, therefore wait every one within your ſelves to hear that joyful Sound, and every one of you dwell in the obedience to what is made manifeſt, and ſo more ſhall be communicated: You muſt all give an account of your Stewardſhip, oh therefore be faith<g ref="char:EOLhyphen"/>ful that you may do it with joy, and not with grief, for it will gnaw you eternally if you trifle away this day of the Lords Love and Mercy: Now there is balm in <hi>Gillead,</hi> and a Phyſitian in your Souls, ſee therefore that your health be recovered by him, and that you neglect not ſo great Salvation; for not with<g ref="char:EOLhyphen"/>ſtanding your vain imaginations and hard thoughts of the Lord, yet his arms of Love are ſtretched out ſtill,
+<pb n="11" facs="tcp:170838:6" rendition="simple:additions"/>
+but how long you know not; therefore be not ſecure and careleſs, and careleſs, but ſtrive to enter in at the ſtrait gate; yet many ſtrive, &amp; are not able, becauſe they would have their own wils and wiſdoms kept alive, with the pro<g ref="char:EOLhyphen"/>fits and vain delights of this world, which keepeth them captive in the broad way which leadeth to de<g ref="char:EOLhyphen"/>ſtruction: But my brethren, not as unbeleeving or diſobedient, put on ſtrength in the power of the Lord who hath called you, and preſſe on the ſtrait gate, where the earthly wil and wiſdom is kept in death; <hi>for the Kingdom of Heaven ſuffereth violence, and the violent take it by force:</hi> So wil they who forſake their own wil and reaſoning, and yeeld themſelves up into the Love and Mercy of the Lord, minding to be gui<g ref="char:EOLhyphen"/>ded by his pure counſel; though your ſtrength ſeem weakneſſe, yet there is nothing in Heaven, nor in Hel neither in the Earth that is able to reſiſt you, but as Conquerours you muſt paſs through death into life, therefore be ſtrong in the Lord every one of you; give up, give up what you have and are into his Wil, let not carnal pleaſures inlure you, nor carnal fears cauſe you to diſtruſt, but run with patience that race which is ſet before you, for your reward is with you, and your work before you; be not ſlothful, but vigilant, for to that end hath he choſen you, that you might manifeſt the riches of his Love, and bring forth fruit to his praiſe; and faint not in your way, the time of refreſhment cometh, cometh on apace, when the Re<g ref="char:EOLhyphen"/>deemed of the Lord ſhal walk in <hi>Sion</hi> with Songs and everlaſting Joy upon their heads, ſinging the Songs of their Deliverance, <hi>Hallelujabs</hi> and Praiſes to him who ſitteth on the Throne, and judgeth the Earth in righteouſneſſe; and therefore fear and tremble you careleſſe ones which have loſt your firſt love; ſtreng<g ref="char:EOLhyphen"/>then
+<pb n="12" facs="tcp:170838:7"/>
+that which remains, leſt you walk in darkneſſe: and you that halt between God and the world, that which you luſt after, and account ſo profitable and delightful, ſhal depart from you, for this world paſ<g ref="char:EOLhyphen"/>ſeth way, and all the comforts which it affordeth; and it wil leave you naked and bare, before him whoſe Love you have rejected, and whoſe Counſel you have deſpiſed. Oh therefore conſider and lay it to heart; how wil you be able to ſtand hefore him, when he ariſeth to plead with you in his fierce Indig<g ref="char:EOLhyphen"/>nation. Now you have time prize it, and forſake that which is earthly, and chuſe that which is eternal, you cannot have both; be not ſayers, but doers, leſt you cauſe the worthy name of our God to be blaſ<g ref="char:EOLhyphen"/>phemed, and ſo bring upon your ſelves ſwift de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>Dear children, you are called and choſen, my de<g ref="char:EOLhyphen"/>ſire is that you may be kept ſtedfaſt unto the end; ſo I commit you all to the tender Mercy of our God, who never leaveth nor forſaketh thoſe that truſt in him.</p>
+            <closer>
+               <signed>Written from the Spirit of the Lord be your Brother in the Truth of the Goſpel. Let this be read when you are met together. JOHN WHITEHEAD.</signed>
+            </closer>
+            <postscript>
+               <p>I am now about to go into the Moors, where I hear there is much hungring after the Truth; when I ſhal return, I know nothing: Pray for me, that I may be kept faithfull to declare the Truth as it is re<g ref="char:EOLhyphen"/>vealed in me.</p>
+               <closer>
+                  <dateline>Scarborough, <date>Octob. 6. 1653.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:170838:7" rendition="simple:additions"/>
+            <head>
+               <hi>In October,</hi> 1653.</head>
+            <p>TO al my dear Brethren the flock of God ſcatter<g ref="char:EOLhyphen"/>ed abroad, and kept together in the power up to God; none be diſcouraged or diſheartned at the E<g ref="char:EOLhyphen"/>nemies without, which is without God, but be bold all in the power of truth, triumphing over the world; hold your freedome, and keep and ſtand faſt in it, that you may be armed with wiſdom, and furniſhed againſt your enemies, who are wiſer in their genera<g ref="char:EOLhyphen"/>tion then the children of Light: But the wiſdom of the moſt High is ſpreading and making it ſelf manifeſt into your hearts, by which you ſhal comprehend all the worlds Wiſdome, the worlds worſhip, and knowledge, and get them under your feet; waiting in that which is pure, it wil lead you before the world was, before the falſe worſhip was, before the ſedu<g ref="char:EOLhyphen"/>cers were, before the Antichriſt was, and before the falſe Temple was, and falſe Prophet and hirelings, and here you wil comprehend all the World, and what is done in the world, therefore every one keep your habitation, abide the trial, and abide the day, and ſtand faſt in your freedom ſo far as Chriſt hath made you free; free from mans wil and commande<g ref="char:EOLhyphen"/>ments which inbondageth, free from the faſhions and luſts of the world, the fleſhly wil, which bon<g ref="char:EOLhyphen"/>dageth and burthens the pure; and to you that cannot witneſſe this, wait and mind the pure, and then the burthen wil be eaſie, and wait for Redemption and Salvation to make it, and your ſtrength is to ſtand ſtill, that you may receive refreſhings, that you may know how to wait, and how to walk to God, and be<g ref="char:EOLhyphen"/>fore God, by the ſpirit of God within you: So God
+<pb n="14" facs="tcp:170838:8"/>
+Almighty be with you, and keep you up to himſelf under his own dominion, from under the dominion of Sathan, that you may trample them al under your feet. And friends, every where meet together, tread<g ref="char:EOLhyphen"/>ing and trampling all the deceit under your feet, and watch over one another in that which is eternal, and ſee every one that your words be eternal life; examine and ſearch which ſpeaks to that which is in priſon, in other, which is eternal: And you that are led out to exhort, or to reprove, do it with all diligence, take<g ref="char:EOLhyphen"/>ing all opportunities, reproving that which devours the Creation, and deſtroys the very humane reaſon and the truth which doth preſerve every thing in it, place; and all meet together every where, and in your meeting wait upon the Lord, and take heed of a form of words, but mind the power, and know its which is eternal, which will keep you all in unity walking in the Spirit, and wil let you ſee the Lord neer you, and amongſt you: So God Almighty be with you, and multiply you, and give you the dew of Heaven, the Heavenly dew, the living mercies which nouriſheth the tender plants, which cauſeth them to grow, bud, and bring forth, and water you with his bleſſings: So the Lord God of power be with you all my dear hearts, I am with you in the ſpi<g ref="char:EOLhyphen"/>rit, and in the love of your God, your Father and my Father; the Lord God be alone proſper you, guide you, and protect you all into his Kingdom of glory, you who are elected, called, choſen, and faith<g ref="char:EOLhyphen"/>ful, who are the Lambs: God Almighty bleſſe you, and keep you all, my dear hearts; the love of God is love paſt knowledg, which bears all things, endures all things, hopes all things, envieth not, thinketh no evil: And the Bottom-ſtone is the love of God, the
+<pb n="15" facs="tcp:170838:8" rendition="simple:additions"/>
+ground of your hearts, the bottom of your hearts, which caſts out the love of the world, and the enmi<g ref="char:EOLhyphen"/>ty to God, betwixt you and God; ſo it's true, <hi>He that beleeves is born of God, and he that is born of God over<g ref="char:EOLhyphen"/>comes the world:</hi> So fare you all wel, and God Al<g ref="char:EOLhyphen"/>mighty bleſſe you, proſper you.</p>
+            <closer>
+               <signed>GEORGE FOX.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>1653. This Precept was written from the mouth of <hi>George Fox,</hi> as he ſpoke it forth, by a Friend of truth.</head>
+            <p>ANd all you friends that wait, in that which is pure it ſelf, which cannot lie, which doth not change; wait upon God, God doth not change, and let all fleſh be ſilent before the Lord, that the Life may ſpeak in all; then the mouth of the Lord is known, and God is exalted and glorified with his own work which he brings forth, and meet together there and every where, and mind that which gathers you, and wait on that which is pure, which gathers you out of the worlds nature, diſpoſition, converſation, Churches, forms, and cuſtomes, which wil knit your hearts together up to God: That which gathers you out of all this is the Spirit of the Lord, and to gather you up to him who is the Father of Spirits, that you may be able to judg, and diſcern, and confound al the deceit in the world, and grow up to be as Kings, and nothing to raign, but what is Life Eternal; and be<g ref="char:EOLhyphen"/>ware of ſpeakings in the preſence of the Lord, ex<g ref="char:EOLhyphen"/>cept your words be eternal life, the eternal Word of God, elſe it doth not profit, nor build up, nor edifie:
+<pb n="16" facs="tcp:170838:9"/>
+So God Almighty be with you all in your meetings, that you may ſee him to be your Head, King, and Lord over all, to you all who are inlightned with the lights of the Spirit, that is the light which ſhews you ſin and evil, and your evil deeds and actings, and the deceit and falſe-heartedneſſe, which wil teach you holineſſe walking in it, and bring you into uni<g ref="char:EOLhyphen"/>ty, and it wil draw your mind up into God, and in it you wil ſee more light; but hating the light, there is your condemnation.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170838:9"/>
+            <pb facs="tcp:170838:10"/>
+            <pb facs="tcp:170838:10"/>
+            <pb facs="tcp:170838:11" rendition="simple:additions"/>
+            <pb facs="tcp:170838:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
